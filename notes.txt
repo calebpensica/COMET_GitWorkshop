@@ -1,0 +1,13 @@
+GIT 101
+git init > write code -> add ->commit->write code->add->commit->write.....
+
+
+
+
+
+
+
+
+git status 
+> shows how many commits(?)
+> shows the git added files in the directory
